@@ -14,7 +14,7 @@ Creating and Assigning the arnold wireframe shaders for various render layers an
    A third nuke job renders the generated nuke script. 
     
 
-* Confidential Python repo is NOT INCLUDED .. *
+*Confidential Python repo is NOT INCLUDED ..*
 
 ## <ins> Tool in Action </ins> :point_down:
 
