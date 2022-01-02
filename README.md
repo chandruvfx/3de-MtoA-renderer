@@ -14,9 +14,9 @@ Creating and Assigning the arnold wireframe shaders for various render layers.
    Once the maya arnold renders successfully completed, A dependent secondnuke job started which collect all the rendered files 
    and generate a nuke script with the distorted plate.  A third nuke job renders the generated nuke script. 
     
-
-*Client Confidential Python repo is NOT INCLUDED ..*
-
+```diff
+- *Client Confidential Python repo is NOT INCLUDED ..*
+```
 ## <ins> Tool in Action </ins> :point_down:
 
 [![Video Demo](https://img.youtube.com/vi/diug0lMhQpE/0.jpg)](https://www.youtube.com/watch?v=diug0lMhQpE)
