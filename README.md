@@ -7,7 +7,7 @@ Below video demonstrates the workflow of the maya arnold deadline renderfarm sub
 ## A tool snippet in the 3de4 end doing multiple tasks  
 
 
-1. Converts the camera and geomentry mesh elements of scene file into alembic archives. and also converts the distortion nuke gizmo of the plate's
+1. Converts the camera and geomentry mesh elements of scene file into alembic archives. and also exports the distortion nuke gizmo of the plate's
 2. Creating the maya files by collectiing all the converted files using maya standalone. 
 Creating and Assigning the arnold wireframe shaders for various render layers.
 3. The tool submit multiple Deadline rener jobs. One maya job and two Nuke jobs. 
