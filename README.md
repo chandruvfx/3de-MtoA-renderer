@@ -11,7 +11,7 @@ A tool snippet in the 3de4 end doing multiple tasks
 Creating and Assigning the arnold wireframe shaders for various render layers.
 3. The tool submit multiple Deadline rener jobs. One maya job and two Nuke jobs. 
    Once the maya arnold renders successfully completed, A dependent nuke  job generate the nuke script with all the rendered files connecting the distorted plate. 
-   A final nuke job renders the generated nuke script. 
+   A final nuke job renders final "write" node of the generated nuke script. 
     
 ```diff
 - *Client Confidential Python repo is NOT INCLUDED ..*
