@@ -4,8 +4,7 @@
 
 Below video demonstrates the workflow of the maya arnold deadline renderfarm submitter through 3de4(3dequalizer4).
 
-## A tool snippet in the 3de4 end doing multiple tasks  
-
+A tool snippet in the 3de4 end doing multiple tasks  
 
 1. Converts the camera and geomentry mesh elements of scene file into alembic archives. and also exports the distortion nuke gizmo of the plate's
 2. Creating the maya files by collectiing all the converted files using maya standalone. 
